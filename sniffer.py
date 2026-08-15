@@ -1,4 +1,6 @@
+﻿#!/usr/bin/env python3
 
+"""
 Basic Network Sniffer using scapy.
 
 Usage examples:
